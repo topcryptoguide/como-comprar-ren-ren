@@ -1,1 +1,3 @@
-# como-comprar-ren-ren
+[**Cómo comprar Ren (REN)**](https://topcryptoguide.com/como-comprar-ren-ren/)
+
+Este artículo explica **cómo comprar Ren (REN)**, el token nativo de la **Red Ren**, un protocolo diseñado para facilitar la interoperabilidad entre distintas blockchains permitiendo transferir activos como BTC y ZEC de forma descentralizada. Para adquirir REN normalmente debes **registrarte en un exchange que lo liste** (por ejemplo Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** (fiat o stablecoins como USDT) para después ejecutar la compra en el mercado spot. Algunos exchanges también ofrecen **compra directa con tarjeta de crédito/débito** o métodos P2P. Tras la compra, se recomienda **mover tus tokens REN a un wallet seguro** donde controles tus claves privadas y protejas tus activos digitales. 
